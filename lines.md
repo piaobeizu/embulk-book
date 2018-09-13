@@ -1,8 +1,16 @@
 ## embulk的命令通览
 
-**Usage: embulk [-vm-options] <command> [--options]**
+>embulk命令实现
 
-> Commands:
+
+
+
+
+> 全部命令
+
+**用法: embulk [-vm-options] <command> [--options]**
+
+**Commands:**
 
 ```shell
 mkbundle   <directory>         # create a new plugin bundle environment.
