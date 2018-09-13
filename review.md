@@ -16,7 +16,9 @@
 
 > Architecture图
 
-![](imgs/Architecture-embulk-core.png)
+![](imgs/Architecture-main.jpg)
+
+
 
 **embulk的github地址：**https://github.com/embulk/embulk
 
