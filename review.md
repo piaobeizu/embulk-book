@@ -1,12 +1,22 @@
 ## 序言
 
-**先上干货：embulk的流程图**
+**先上干货：**
 
-
+> embulk的流程图
 
 ![img](https://upload-images.jianshu.io/upload_images/9654612-1501cd814305a8e9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000)
 
 *从上图可以看出，embulk支持对很多不同存储类型的数据源的数据进行转移，而转移的实现在embulk中是采用了插件的机制，通过`embulk gem install ***`命令来安装插件。*
+
+
+
+> butterfly图
+
+![](imgs/Butterfly-EmbulkRunner-run.png)
+
+> Architecture图
+
+![](imgs/Architecture-main.jpg)
 
 
 
