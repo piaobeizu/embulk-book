@@ -1,4 +1,4 @@
-## 序言
+##  序言 
 
 **先上干货：**
 
@@ -18,7 +18,9 @@
 
 ![](imgs/Architecture-main.jpg)
 
+> calls
 
+![](imgs/Calls-EmbulkRun-run.jpg)
 
 **embulk的github地址：**https://github.com/embulk/embulk
 
@@ -27,7 +29,7 @@
 ```shell
 curl --create-dirs -o ~/.embulk/bin/embulk -L "https://dl.embulk.org/embulk-latest.jar"
 chmod +x ~/.embulk/bin/embulk
-echo 'export PATH="$HOME/.embulk/bin:$PATH"' >> ~/.bashrc
+echo 'export PATH="$HOME/.embulk/bin:$PATH"' >>  ~/.bashrc
 source ~/.bashrc
 ```
 
